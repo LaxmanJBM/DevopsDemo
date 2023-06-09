@@ -37,6 +37,8 @@ import com.beust.jcommander.internal.Console;
 import Base.Browser;
 public class Page2 extends Browser{	
 			
+	//This is for DevOps code
+	
 			@FindBy(xpath = "//img[@id='ctl00_btnNew']")
 			private WebElement newBtn;
 			@FindBy(xpath = "//td[text()='Maintain Booking']")
