@@ -2,12 +2,12 @@
 <testng-results ignored="1" total="2" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-09T17:56:56 IST" name="Default suite" finished-at="2023-06-09T17:56:56 IST" duration-ms="99">
+  <suite started-at="2023-07-11T13:23:24 IST" name="Default suite" finished-at="2023-07-11T13:23:24 IST" duration-ms="113">
     <groups>
     </groups>
-    <test started-at="2023-06-09T17:56:56 IST" name="Default test" finished-at="2023-06-09T17:56:56 IST" duration-ms="99">
+    <test started-at="2023-07-11T13:23:24 IST" name="Default test" finished-at="2023-07-11T13:23:24 IST" duration-ms="113">
       <class name="Test.Test1">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Test.Test1@2667f029]" started-at="2023-06-09T17:56:56 IST" name="setup" finished-at="2023-06-09T17:56:56 IST" duration-ms="43" status="FAIL">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.Test1@2667f029]" started-at="2023-07-11T13:23:24 IST" name="setup" finished-at="2023-07-11T13:23:24 IST" duration-ms="45" status="FAIL">
           <exception class="java.lang.IllegalStateException">
             <message>
               <![CDATA[The driver executable must exist: C:\Users\Admin\Desktop\New folder (2)\DevopsDemo\path\to\chromedriver]]>
@@ -60,7 +60,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="data()[pri:0, instance:Test.Test1@2667f029]" started-at="2023-06-09T17:56:56 IST" name="data" finished-at="2023-06-09T17:56:56 IST" duration-ms="0" status="SKIP">
+        <test-method signature="data()[pri:0, instance:Test.Test1@2667f029]" started-at="2023-07-11T13:23:24 IST" name="data" finished-at="2023-07-11T13:23:24 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.IllegalStateException">
             <message>
               <![CDATA[The driver executable must exist: C:\Users\Admin\Desktop\New folder (2)\DevopsDemo\path\to\chromedriver]]>
@@ -113,7 +113,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- data -->
-        <test-method is-config="true" signature="exit()[pri:0, instance:Test.Test1@2667f029]" started-at="2023-06-09T17:56:56 IST" name="exit" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1686313616224" status="SKIP">
+        <test-method is-config="true" signature="exit()[pri:0, instance:Test.Test1@2667f029]" started-at="2023-07-11T13:23:24 IST" name="exit" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1689062004433" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exit -->

@@ -38,7 +38,7 @@ import Base.Browser;
 public class Page2 extends Browser{	
 			
 	//This is for DevOps code
-	
+	//This is for Devops Repo Demo
 			@FindBy(xpath = "//img[@id='ctl00_btnNew']")
 			private WebElement newBtn;
 			@FindBy(xpath = "//td[text()='Maintain Booking']")
